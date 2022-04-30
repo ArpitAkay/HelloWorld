@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4C97-E593
+
+ Directory of C:\Users\DELL\Downloads\JavaProject1
+
+04/30/2022  07:20 PM    <DIR>          .
+04/30/2022  07:20 PM    <DIR>          ..
+04/30/2022  07:20 PM                 0 another.txt
+04/30/2022  06:52 PM               900 Hello.class
+04/30/2022  06:35 PM               145 Hello.java
+               3 File(s)          1,045 bytes
+               2 Dir(s)  102,847,275,008 bytes free
